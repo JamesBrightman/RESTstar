@@ -1,3 +1,11 @@
+## RESTstar API
+
+A project to consume the Swapi API with React and React-query.
+
+Based on the tutorials by [web ninja](https://www.youtube.com/watch?v=x1rQ61otgtU&ab_channel=TheNetNinja).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
